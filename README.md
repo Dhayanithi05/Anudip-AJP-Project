@@ -13,7 +13,6 @@ The **Online Exam Result System** is a Java-based application built using **Spri
 - Edit Assessment Results
 - Add New Student
 - Add New Exam
-- Delete an Exam
 - Logout
 
 #### Student Panel:
